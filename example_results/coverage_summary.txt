@@ -1,0 +1,10 @@
+Sample: DEMO_TUMOR_001
+Assay: Targeted solid tumor panel (92 genes)
+Genome build: hg19
+
+Mean on-target depth: ~564x
+Percent bases >=100x: ~94.6%
+
+Note:
+- Values shown as example output
+- No raw or patient-identifiable data included

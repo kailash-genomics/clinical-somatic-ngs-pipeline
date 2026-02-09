@@ -1,0 +1,48 @@
+
+# =========================
+# Raw & Processed Data
+# =========================
+raw_fastq/
+trimmed_fastq/
+alignment/
+variants/
+metrics/
+logs/
+reports/
+reference/
+bed/
+
+# =========================
+# Large genomics files
+# =========================
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+
+# =========================
+# Tool installations
+# =========================
+gatk-*/
+snpEff/
+*.jar
+*.zip
+
+# =========================
+# Colab / temp files
+# =========================
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+
